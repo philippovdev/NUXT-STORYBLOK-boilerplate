@@ -1,0 +1,7 @@
+.home {
+  background: green;
+}
+.nested {
+  display: block;
+  background-color: red;
+}
